@@ -28,13 +28,13 @@ Please check my [Curriculum Vitae] for more information!
   - [Paper](https://github.com/c-juhwan/c-juhwan/blob/main/Documents/Papers/소프트_라벨을_적용한_규칙_기반_텍스트_데이터_증강_기법_인쇄본.pdf) | [Poster](https://github.com/c-juhwan/c-juhwan/blob/main/Documents/Papers/소프트_라벨을_적용한_규칙_기반_텍스트_데이터_증강_기법_포스터.pdf)
     
 - 낯선 데이터를 활용한 과잉신뢰 완화 텍스트 증강 기법
-  - Junho Lee, **Sahngmin Song**, Juhwan Choi, Juhyoung Park, Kyohoon Jin and Youngbin Kim
+  - Junho Lee, **Sangmin Song**, Juhwan Choi, Juhyoung Park, Kyohoon Jin and Youngbin Kim
   - 한국HCI학회 2023년도 학술대회
   - [Paper](https://github.com/c-juhwan/c-juhwan/blob/main/Documents/Papers/낯선_데이터를_활용한_과잉신뢰_완화_텍스트_증강_기법_인쇄본.pdf) | [Presentation](https://github.com/c-juhwan/c-juhwan/blob/main/Documents/Papers/낯선_데이터를_활용한_과잉신뢰_완화_텍스트_증강_기법_발표자료.pptx)
 
 **2022**
 - 수학 문장제 해결을 위한 PLM기반 수리적 추론의 필요성에 대한 성능 비교
-  - **Sahngmin Song**, Kyohoon Jin, Sujin Cho, Eunju Lee, YoungBin Kim
+  - **Sangmin Song**, Kyohoon Jin, Sujin Cho, Eunju Lee, YoungBin Kim
   - 한국정보과학회 2023년도 학술대회
   - [Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113371) | [Poster]
     
