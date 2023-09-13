@@ -22,6 +22,11 @@ Please check my [Curriculum Vitae] for more information!
 
 ### Domestic Publications
 **2023**
+- 게임 개발에 적용된 GAN 기반 인공지능을 활용한 효율적인 2D 애니메이션 배경 생성 프레임워크
+  - Ji Sun Byun, **Sangmin Song**, Eun-Kyong Hwang, Seong-Won Park, Jae-Woong Kim
+  - 한국콘텐츠학회논문지 제23권 제8호
+  - [Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11506194)
+
 - 소프트 라벨을 적용한 규칙 기반 텍스트 데이터 증강 기법
   - Juhwan Choi, Junho Lee, **Sangmin Song**, Kyohoon Jin and Youngbin Kim
   - 대한전자공학회 2023년도 하계종합학술대회
