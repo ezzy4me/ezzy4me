@@ -18,7 +18,11 @@ Please check my [Curriculum Vitae] for more information!
   - ICLR 2023 Tiny Papers
   - [Paper](https://openreview.net/pdf?id=OiSbJbVWBJT) | [Review](https://openreview.net/forum?id=OiSbJbVWBJT) | [Code](https://github.com/c-juhwan/SoftEDA)
   - Selected as notable work with presentation
-
+    
+- Exploring Changes in Soccer Research from Before and During the COVID-19 Pandemic using Topic Modeling (proofs)
+  - Jea-Woog Lee, **Sangmin Song**, YoungBin Kim, Seung-Bo Park, Doug Hyun Han
+  - Frontiers in Psychology
+  - [Paper]() 
 
 ### Domestic Publications
 **2023**
