@@ -44,7 +44,7 @@ Please check my [Curriculum Vitae] for more information!
 **2022**
 - 수학 문장제 해결을 위한 PLM기반 수리적 추론의 필요성에 대한 성능 비교
   - **Sangmin Song**, Kyohoon Jin, Sujin Cho, Eunju Lee, YoungBin Kim
-  - 한국정보과학회 2023년도 학술대회
+  - 한국정보과학회 2022 한국컴퓨터종합학술대회 논문집
   - [Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113371) | [Poster]
     
 ## Skills
