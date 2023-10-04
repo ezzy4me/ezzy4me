@@ -22,7 +22,7 @@ Please check my [Curriculum Vitae] for more information!
 - Exploring Changes in Soccer Research from Before and During the COVID-19 Pandemic using Topic Modeling (proofs)
   - Jea-Woog Lee, **Sangmin Song**, YoungBin Kim, Seung-Bo Park, Doug Hyun Han
   - Frontiers in Psychology
-  - [Paper]() 
+  - [Paper](https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1244404/abstract) 
 
 ### Domestic Publications
 **2023**
