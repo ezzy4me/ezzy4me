@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/42aa4909-4493-4321-9fef-92e96b90bb5c)![image](https://github.com/user-attachments/assets/b32b08e2-8589-427b-b014-878f38e2a156)# Sangmin Song
+![image](https://github.com/user-attachments/assets/42aa4909-4493-4321-9fef-92e96b90bb5c)![image](https://github.com/user-attachments/assets/b32b08e2-8589-427b-b014-878f38e2a156)
+# Sangmin Song
 
 ## Profile
 
@@ -9,7 +10,8 @@
 
 
 ## Patent
-- 기계학습에 기반한 예측을 이용하여 보완 대체 의사소통을 제공하는 장치 및 방법 Patent Number : 10-2573967 | [Docs](https://patentimages.storage.googleapis.com/68/33/a9/b9187b569dee84/KR102573967B1.pdf)
+- 기계학습에 기반한 예측을 이용하여 보완 대체 의사소통을 제공하는 장치 및 방법
+  - Patent Number : 10-2573967 | [Docs](https://patentimages.storage.googleapis.com/68/33/a9/b9187b569dee84/KR102573967B1.pdf)
 
 ## Publications
 
