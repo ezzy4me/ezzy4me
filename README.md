@@ -1,4 +1,4 @@
-# Sangmin Song
+![image](https://github.com/user-attachments/assets/3c300795-603a-4bd1-841a-1884e0f9e6f8)# Sangmin Song
 
 ## Profile
 
@@ -24,7 +24,6 @@
   - Kyohoon Jin, Junho Lee, Juhwan Choi, **Sangmin Song** and Youngbin Kim
   - LREC-Coling 2024
   - [Paper]([https://openreview.net/pdf?id=OiSbJbVWBJT](https://aclanthology.org/2024.lrec-main.525/)) | [Code]([https://github.com/c-juhwan/SoftEDA](https://aclanthology.org/2024.lrec-main.525/))
-  - Selected as notable work with presentation
 
 - SoftEDA: Rethinking Rule-Based Data Augmentation with Soft Labels
   - Juhwan Choi, Kyohoon Jin, Junho Lee, **Sangmin Song** and Youngbin Kim
@@ -36,7 +35,6 @@
   - Juhwan Choi, Kyohoon Jin, Junho Lee, **Sangmin Song** and Youngbin Kim
   - EACL 2024
   - [Paper]([https://openreview.net/pdf?id=OiSbJbVWBJT](https://arxiv.org/abs/2402.05584)) | [Code]([https://github.com/c-juhwan/SoftEDA](https://github.com/c-juhwan/soft-text-autoaugment))
-  - Selected as notable work with presentation
     
 - Soccer’s AI transformation: deep learning’s analysis of soccer’s pandemic research evolution
   - Jea-Woog Lee, **Sangmin Song**, YoungBin Kim, Seung-Bo Park, Doug Hyun Han
@@ -75,13 +73,10 @@
 
 ### Programming Languages
 
-- Familiar: Python 
-- Experienced: SQL, R
+- Python, Linux Shell, C MySQL, R, SAS, SPSS, JavaScript
 
-### Programming Libraries
+### Programming Libraries & Tools
 
-- Familiar: Pytorch | HuggingFace | Numpy | Pandas
+-  PyTorch | Scikit-learn | Git
 
-### Programming Tools
 
-- Familiar: Git
