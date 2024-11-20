@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3c300795-603a-4bd1-841a-1884e0f9e6f8)# Sangmin Song
+# Sangmin Song
 
 ## Profile
 
