@@ -1,4 +1,4 @@
-# Sangmin Song
+![image](https://github.com/user-attachments/assets/42aa4909-4493-4321-9fef-92e96b90bb5c)![image](https://github.com/user-attachments/assets/b32b08e2-8589-427b-b014-878f38e2a156)# Sangmin Song
 
 Please check my [Curriculum Vitae] for more information!
 
@@ -12,14 +12,30 @@ Please check my [Curriculum Vitae] for more information!
 ## Publications
 
 ### International Publications
+- KICK: Korean Football In-game Conversation State Tracking Dataset for Dialogue and Turn Level Evaluation
+  - **Sangmin Song**, Juhyeong Park, Juhwan Choi, Junho Lee,  Kyohoon Jin and Youngbin Kim
+  - EAAI (IF: 7.5)
+  - [Paper](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) | [Code](https://github.com/ezzy4me/KICK)
+
+- Enhancing Effectiveness and Robustness in a Low-Resource Regime via Decision-Boundary-aware Data Augmentation
+  - Kyohoon Jin, Junho Lee, Juhwan Choi, **Sangmin Song** and Youngbin Kim
+  - LREC-Coling 2024
+  - [Paper]([https://openreview.net/pdf?id=OiSbJbVWBJT](https://aclanthology.org/2024.lrec-main.525/)) | [Code]([https://github.com/c-juhwan/SoftEDA](https://aclanthology.org/2024.lrec-main.525/))
+  - Selected as notable work with presentation
 
 - SoftEDA: Rethinking Rule-Based Data Augmentation with Soft Labels
   - Juhwan Choi, Kyohoon Jin, Junho Lee, **Sangmin Song** and Youngbin Kim
   - ICLR 2023 Tiny Papers
   - [Paper](https://openreview.net/pdf?id=OiSbJbVWBJT) | [Review](https://openreview.net/forum?id=OiSbJbVWBJT) | [Code](https://github.com/c-juhwan/SoftEDA)
   - Selected as notable work with presentation
+
+- AutoAugment Is What You Need: Enhancing Rule-based Augmentation Methods in Low-resource Regimes
+  - Juhwan Choi, Kyohoon Jin, Junho Lee, **Sangmin Song** and Youngbin Kim
+  - EACL 2024
+  - [Paper]([https://openreview.net/pdf?id=OiSbJbVWBJT](https://arxiv.org/abs/2402.05584)) | [Code]([https://github.com/c-juhwan/SoftEDA](https://github.com/c-juhwan/soft-text-autoaugment))
+  - Selected as notable work with presentation
     
-- Exploring Changes in Soccer Research from Before and During the COVID-19 Pandemic using Topic Modeling (proofs)
+- Soccer’s AI transformation: deep learning’s analysis of soccer’s pandemic research evolution
   - Jea-Woog Lee, **Sangmin Song**, YoungBin Kim, Seung-Bo Park, Doug Hyun Han
   - Frontiers in Psychology
   - [Paper](https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1244404/abstract) 
