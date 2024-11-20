@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/42aa4909-4493-4321-9fef-92e96b90bb5c)![image](https://github.com/user-attachments/assets/b32b08e2-8589-427b-b014-878f38e2a156)
 # Sangmin Song
 
 ## Profile
