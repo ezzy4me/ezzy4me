@@ -5,7 +5,7 @@
 - Graduate student @ Department of Artificial Intelligence, Chung-Ang University
 - E-mail: [songsari0313@gmail.com](mailto:songsari0313@gmail.com) / [s2022120859@cau.ac.kr](mailto:s2022120859@cau.ac.kr)
 - Personal Blog: [ezzy4me.github.io/](ezzy4me.github.io/) (under construction!)
-- Research Interest: Natural Language Processing, Deep Learning
+- Research Interest: Natural Language Processing, Dialogue State Tracking
 
 
 ## Patent
@@ -18,12 +18,12 @@
 - KICK: Korean Football In-game Conversation State Tracking Dataset for Dialogue and Turn Level Evaluation
   - **Sangmin Song**, Juhyeong Park, Juhwan Choi, Junho Lee,  Kyohoon Jin and Youngbin Kim
   - EAAI (IF: 7.5)
-  - [Paper](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) | [Code](https://github.com/ezzy4me/KICK)
+  - [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197624017305) | [Code](https://github.com/ezzy4me/KICK)
 
 - Enhancing Effectiveness and Robustness in a Low-Resource Regime via Decision-Boundary-aware Data Augmentation
   - Kyohoon Jin, Junho Lee, Juhwan Choi, **Sangmin Song** and Youngbin Kim
   - LREC-Coling 2024
-  - [Paper]([https://openreview.net/pdf?id=OiSbJbVWBJT](https://aclanthology.org/2024.lrec-main.525/)) | [Code]([https://github.com/c-juhwan/SoftEDA](https://aclanthology.org/2024.lrec-main.525/))
+  - [Paper](https://aclanthology.org/2024.lrec-main.525/) | [Code](https://github.com/ezzy4me/text_distortion_augment)
 
 - SoftEDA: Rethinking Rule-Based Data Augmentation with Soft Labels
   - Juhwan Choi, Kyohoon Jin, Junho Lee, **Sangmin Song** and Youngbin Kim
@@ -34,7 +34,7 @@
 - AutoAugment Is What You Need: Enhancing Rule-based Augmentation Methods in Low-resource Regimes
   - Juhwan Choi, Kyohoon Jin, Junho Lee, **Sangmin Song** and Youngbin Kim
   - EACL 2024
-  - [Paper]([https://openreview.net/pdf?id=OiSbJbVWBJT](https://arxiv.org/abs/2402.05584)) | [Code]([https://github.com/c-juhwan/SoftEDA](https://github.com/c-juhwan/soft-text-autoaugment))
+  - [Paper](https://arxiv.org/abs/2402.05584) | [Code](https://github.com/c-juhwan/soft-text-autoaugment)
     
 - Soccer’s AI transformation: deep learning’s analysis of soccer’s pandemic research evolution
   - Jea-Woog Lee, **Sangmin Song**, YoungBin Kim, Seung-Bo Park, Doug Hyun Han
